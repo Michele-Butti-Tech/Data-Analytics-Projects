@@ -18,3 +18,9 @@ This repository contains technical notebooks demonstrating data manipulation and
 * **Languages:** Python (Pandas, NumPy), SQL
 * **Data Visualization:** Power BI, Tableau, Excel
 * **Cloud & Tools:** Azure, Google Colab, GitHub
+
+* ## 📈 Advanced Excel: Sales & Profit Dashboard
+Created a dynamic dashboard using Pivot Tables to analyze sales distribution and profit margins across different product categories.
+* **Tools Used:** Excel (Pivot Tables, Data Aggregation, Data Visualization).
+
+![Excel Dashboard](Excel_Dashboard.png) 
