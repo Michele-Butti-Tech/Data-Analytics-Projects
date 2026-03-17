@@ -23,13 +23,13 @@ This repository contains technical notebooks demonstrating data manipulation and
 Created a dynamic dashboard using Pivot Tables to analyze sales distribution and profit margins across different product categories.
 * **Tools Used:** Excel (Pivot Tables, Data Aggregation, Data Visualization).
 
-![Excel Dashboard](Excel_Dashboard.png) 
+![Excel Dashboard](Excel_Dashboard.png.png)
 
 ## 🌍 Data Visualization with Tableau: Global Health Trends
 Developed an interactive Tableau dashboard analyzing global health metrics, specifically focusing on life expectancy trends and disparities across different continents using the Gapminder dataset.
 * **Tools Used:** Tableau (Data Visualization, Trend Analysis, Filtering).
 
-![Tableau Dashboard](Tableau_Dashboard.png)
+![Tableau Dashboard](Tableau_Dashboard.png.png)
 
 ## 🗄️ Database Management: MySQL Data Exploration
 Wrote structured SQL queries to extract key business metrics, aggregate sales data, and perform exploratory data analysis on retail datasets.
