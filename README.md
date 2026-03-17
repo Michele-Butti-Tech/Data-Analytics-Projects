@@ -30,3 +30,8 @@ Developed an interactive Tableau dashboard analyzing global health metrics, spec
 * **Tools Used:** Tableau (Data Visualization, Trend Analysis, Filtering).
 
 ![Tableau Dashboard](Tableau_Dashboard.png)
+
+## 🗄️ Database Management: MySQL Data Exploration
+Wrote structured SQL queries to extract key business metrics, aggregate sales data, and perform exploratory data analysis on retail datasets.
+* **Tools Used:** MySQL (Data Extraction, Aggregation, Filtering).
+* **View the Queries:** [MySQL_Data_Exploration.sql](MySQL_Data_Exploration.sql)
