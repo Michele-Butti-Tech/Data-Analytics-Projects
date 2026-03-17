@@ -24,3 +24,9 @@ Created a dynamic dashboard using Pivot Tables to analyze sales distribution and
 * **Tools Used:** Excel (Pivot Tables, Data Aggregation, Data Visualization).
 
 ![Excel Dashboard](Excel_Dashboard.png) 
+
+## 🌍 Data Visualization with Tableau: Global Health Trends
+Developed an interactive Tableau dashboard analyzing global health metrics, specifically focusing on life expectancy trends and disparities across different continents using the Gapminder dataset.
+* **Tools Used:** Tableau (Data Visualization, Trend Analysis, Filtering).
+
+![Tableau Dashboard](Tableau_Dashboard.png)
