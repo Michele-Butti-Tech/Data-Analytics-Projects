@@ -1,16 +1,13 @@
 # Michele Butti - Data Analytics Portfolio
 
-Benvenuti nel mio portfolio! Sono un Data Analyst con un solido background in Business Management, specializzato nella trasformazione dei dati in decisioni strategiche.
+Welcome to my portfolio! I am a Data Analyst with a First-Class background in International Business Management, specialized in transforming raw data into strategic business insights.
 
-## 📊 Power BI Showcase
-Analisi delle performance di vendita in Europa con focus sull'ottimizzazione del profitto (66K).
+## 🐍 Python & Data Engineering
+This repository contains technical notebooks demonstrating data manipulation and algorithmic logic:
+* **Python_Data_Analysis_Pandas.ipynb**: Data cleaning, handling missing values, and exploratory analysis using the Pandas library.
+* **Python_Logic_and_Algorithms.ipynb**: Implementation of core programming concepts, loops, and conditional logic.
 
-![Sales Dashboard](PowerBI_Sales_Performance_Dashboard.png.png)
-
-## 🐍 Python Projects
-* **Python_Data_Analysis_Pandas.ipynb**: Pulizia e manipolazione di dataset complessi.
-* **Python_Logic_FizzBuzz_Task.ipynb**: Implementazione di logiche di programmazione e algoritmi.
-
-## 🛠 Skills
-* **Languages:** Python, SQL
-* **Tools:** Power BI, Tableau, Excel, Azure 
+## 🛠 Technical Skills
+* **Languages:** Python (Pandas, NumPy), SQL
+* **Data Visualization:** Power BI, Tableau, Excel
+* **Cloud & Tools:** Azure, Google Colab, GitHub
