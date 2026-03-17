@@ -7,12 +7,12 @@ This project features an interactive dashboard analyzing European sales trends a
 * **Key Achievement:** Identified profit optimization opportunities totaling £66K.
 * **Tools Used:** Power BI, Power Query, DAX.
 
-![Sales Dashboard](Sales_Dashboard_Clean.png)
+![Sales Dashboard](PowerBI_Sales_Performance_Dashboard.png.png)
 
 ## 🐍 Python & Data Engineering
 This repository contains technical notebooks demonstrating data manipulation and algorithmic logic:
-* **Python_Data_Analysis_Pandas.ipynb**: Data cleaning, handling missing values, and exploratory analysis using the Pandas library.
-* **Python_Logic_and_Algorithms.ipynb**: Implementation of core programming concepts, loops, and conditional logic.
+* **Python_Data_Analysis_Pandas.ipynb**: Data cleaning and exploratory analysis.
+* **Python_Logic_FizzBuzz_Task.ipynb**: Implementation of core programming concepts and logic.
 
 ## 🛠 Technical Skills
 * **Languages:** Python (Pandas, NumPy), SQL
